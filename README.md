@@ -1,11 +1,10 @@
 <div align="center">
-	<img src="src/assets/readme/projeto.png" width="700" alt="projeto"/>
+	<img src="src/assets/readme/projeto.png" width="500" alt="projeto"/>
 </div>
 
 ## :dart: Objetivo
 
-Projeto desenvolvido para por em prática os principais fundamentos da biblioteca
-React.js, usando como base de dados a api do Git-Hub.
+Projeto desenvolvido para concluir o desafio proposto no evento. Neste projeto, refatoramos toda aplicação e a dividimos em componentes.
 
 ## :hammer_and_wrench: Ferramentas
 
@@ -17,6 +16,7 @@ React.js, usando como base de dados a api do Git-Hub.
 - [axios](https://axios-http.com/ptbr/docs/intro)
 - [react-refresh](https://www.npmjs.com/package/react-refresh)
 - [typescript](https://www.typescriptlang.org/)
+- [json-server](https://www.npmjs.com/package/json-server)
 
 ## :desktop_computer: Padronização de código
 
