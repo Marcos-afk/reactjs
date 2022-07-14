@@ -1,10 +1,11 @@
 <div align="center">
-	<h1>Template</h1>
+	<img src="src/assets/readme/projeto.png" width="500" alt="projeto"/>
 </div>
 
 ## :dart: Objetivo
 
-Template desenvolvida durante o curso Ignite da Rocketseat.
+Projeto desenvolvido para por em prática os principais fundamentos da biblioteca
+React.js, usando como base de dados a api do Git-Hub.
 
 ## :hammer_and_wrench: Ferramentas
 
@@ -13,6 +14,9 @@ Template desenvolvida durante o curso Ignite da Rocketseat.
 - [cross-env](https://www.npmjs.com/package/cross-env)
 - [node-sass](https://www.npmjs.com/package/node-sass)
 - [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin)
+- [axios](https://axios-http.com/ptbr/docs/intro)
+- [react-refresh](https://www.npmjs.com/package/react-refresh)
+- [typescript](https://www.typescriptlang.org/)
 
 ## :desktop_computer: Padronização de código
 
