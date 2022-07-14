@@ -4,7 +4,7 @@
 
 ## :dart: Objetivo
 
-Projeto desenvolvido para concluir o desafio proposto no evento. Neste projeto, refatoramos toda aplicação e a dividimos em componentes. Esse repositório está dividido em três branch's cada um possui instruções a respeito do seu respectivo conteúdo.
+Projeto desenvolvido para concluir o desafio proposto no evento. Neste projeto, refatoramos toda aplicação e a dividimos em componentes.
 
 ## :hammer_and_wrench: Ferramentas
 
