@@ -4,7 +4,7 @@
 
 ## :dart: Objetivo
 
-Template desenvolvida durante o curso Ignite da Rocketseat.
+Template desenvolvida durante o curso Ignite da Rocketseat. Este repositório está dividido em três branches, cada uma possui instruções baseadas no seu respectivo conteúdo.
 
 ## :hammer_and_wrench: Ferramentas
 
