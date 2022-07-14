@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="src/assets/readme/projeto.png" width="500" alt="projeto"/>
+	<img src="src/assets/readme/projeto.png" width="700" alt="projeto"/>
 </div>
 
 ## :dart: Objetivo
