@@ -11,8 +11,7 @@
   "scripts": {
     "dev": "webpack serve",
     "build": "cross-env NODE_ENV=production webpack",
-    "lint": "eslint src/**/*.{js,jsx,ts,tsx,json}",
-    "lint:fix": "eslint --fix 'src/**/*.{js,jsx,ts,tsx,json}'",
+    "lint": "eslint  --fix --ext .js,.jsx,.ts,.tsx .",
     "format": "prettier --write 'src/**/*.{js,jsx,ts,tsx,css,md,json}' --config ./.prettierrc"
   },
   "devDependencies": {
